@@ -1,3 +1,5 @@
+#Matthew Resendez
+#1431242
 def selection_sort_descend_trace(number):
     for i in range(len(number)-1):
         ind = i
